@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "DeepSeek 问题侧边栏",
+  "version": "1.0.0",
+  "description": "在DeepSeek对话框中显示提问问题的侧边栏菜单",
+  "host_permissions": ["https://chat.deepseek.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://chat.deepseek.com/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
