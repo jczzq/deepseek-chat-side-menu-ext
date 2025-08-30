@@ -2,6 +2,10 @@
 
 一个用于在 DeepSeek 聊天对话框中显示提问问题历史的浏览器插件。
 
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/a5a778c8-e08b-4b0b-a54b-b7653805a70b" />
+
+Chrome插件商店：[DeepSeek 问题侧边栏](https://chromewebstore.google.com/detail/DeepSeek%20%E9%97%AE%E9%A2%98%E4%BE%A7%E8%BE%B9%E6%A0%8F/bggmeakmnnaojglcnaecnloiheaoiohj?hl=zh-CN&utm_source=ext_sidebar)
+
 ## 功能特性
 
 - 📋 **自动记录问题**: 自动检测并记录你在 DeepSeek 聊天中提出的问题
